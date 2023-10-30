@@ -1,0 +1,15 @@
+ul {
+    list-style:'>'
+}
+ul > li > #winter {
+    list-style-image: url('../Task1/icons/winter_16.png')
+}
+ul > li > #spring {
+    list-style-image: url('../Task1/icons/spring_16.png')
+}
+ul > li > #summer {
+    list-style-image: url('../Task1/icons/summer_16.png')
+}
+ul > li > #autumn {
+    list-style-image: url('../Task1/icons/autumn_16.png')
+}

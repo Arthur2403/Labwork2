@@ -1,0 +1,12 @@
+h1{
+    font-weight: bold;
+}
+ol{
+    list-style: upper-roman;
+}
+ol > li > ol{
+    list-style: decimal;
+}
+ol > li > ol > li > ol{
+    list-style:lower-alpha ;
+}

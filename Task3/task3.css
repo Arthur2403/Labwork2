@@ -1,0 +1,21 @@
+div{
+    font-family: sans-serif;
+    color: white;
+}
+div > p{
+    height: 120px;
+    width:  500px;
+    padding: 30px 30px 30px 30px;
+    margin: 0px 30px 30px 30px;
+    background-color: rgb(52, 111, 108);
+}
+div > h3{
+    height: 20px;
+    width: 500px;
+    background-color: rgb(32, 58, 74);
+    padding: 10px 30px 10px 30px;
+    margin: 30px 30px 0px 30px;
+}
+span{
+    font-weight: bold;
+}
